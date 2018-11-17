@@ -1,0 +1,5 @@
+What happens when you initialize a repository?Why do you need to do it? 
+=> a hidden directory containing meta data is created on your computer, to ensure get can save of keep snapshot of your commit history. 
+
+How is the stagin area different from the working directory and repository? What value do you think it offeres?
+=> the staging area hold together the files you have made changes on allowing you to make a single descriptive commit on what was achieved
