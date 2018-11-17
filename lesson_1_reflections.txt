@@ -1,0 +1,19 @@
+- it outline the change/different between the old file and the new file
+- if could help me understand the progress i have carried out during the development process, as well as provide critical summary point during development
+
+pros -> provide logical checkpoint of changes
+++++
+- Help you keep track of your though/process/progress
+
+Cons
+++++
+- Automatically saving at different point with no clear history of the process and why will not provide very good progress reference
+
+- State of the files might have evolve together. So haveing a snapshot of how thing are in the different edited file will provide good accurate state information. / File changes may be interelated
+
+- You can use the git log to view the commit history and using the git diff you compare to commit id to see the differences between the two commits
+
+- Since you have a snapshot of a working state/progress of a project reverting back is easy hence gives you the confidence of making changes, you also know you can alway roll back.
+also because you can alway checkout back to a previous working version
+
+Web programming // Programming and keeping track of project
